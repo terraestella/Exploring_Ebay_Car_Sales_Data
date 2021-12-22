@@ -1,4 +1,4 @@
-### The aim of this project is to clean the data and analyze the used car listings.
+### The aim of this project is to clean and analyze the data.
 
 *dataframe.shape = (50000, 20)*
 ### Data dictionary:
