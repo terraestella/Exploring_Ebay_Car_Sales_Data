@@ -1,5 +1,6 @@
-### The aim of this project is to clean and analyze the data.
+#### The aim of this project is to clean and analyze the data. ####
 
+#### Dataset: used cars listing from eBay Kleinanzeigen, a classifieds section of the German eBay website (https://data.world/data-society/used-cars-data). ####
 *dataframe.shape = (50000, 20)*
 ### Data dictionary:
 
