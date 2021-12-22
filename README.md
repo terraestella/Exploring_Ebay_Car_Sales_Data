@@ -1,6 +1,6 @@
 ### The aim of this project is to clean the data and analyze the used car listings.
 
-### dataframe.shape = (50000, 20)
+*dataframe.shape = (50000, 20)*
 ### Data dictionary:
 
 `dateCrawled` - When this ad was first crawled. All field-values are taken from this date.
